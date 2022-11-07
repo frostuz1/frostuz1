@@ -1,7 +1,7 @@
-# Random stuff
+# Info
 
-- Hi
-- dicrod: fced#0207
+- Hi im Hapski
+- dicrod: Hapski#0207
 
-# Fans
+# Visitors
 ![](https://komarev.com/ghpvc/?username=frostuz1&hex=#aa9dae)
