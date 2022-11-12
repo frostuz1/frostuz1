@@ -1,7 +1,6 @@
 # Info
 
 - Hi I'm Hapski, I love games of all types. My goal is to make my own someday. I'm currently practicing coding in C++, JS and HTML5.
-- dicrod: Hapski#0207
 
 # Visitors
 ![](https://komarev.com/ghpvc/?username=frostuz1&hex=#aa9dae)
