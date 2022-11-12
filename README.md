@@ -5,3 +5,6 @@
 
 # Visitors
 ![](https://komarev.com/ghpvc/?username=frostuz1&hex=#aa9dae)
+
+# To do
+- fix paeg
