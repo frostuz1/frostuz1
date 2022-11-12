@@ -9,6 +9,4 @@
 ![amogussus](https://user-images.githubusercontent.com/107654891/201456275-c32aecfb-6564-42b7-ad28-a5cb241cf394.png)
 
 # To do
-- fix page 
-
-[wawa.webm](https://user-images.githubusercontent.com/107654891/201456366-18630f23-4348-4d5c-b7da-accaa8a330c6.webm)
+- fix page
