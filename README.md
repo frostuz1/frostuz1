@@ -10,3 +10,4 @@
 - fix page
 
 ![idotsandwich](https://user-images.githubusercontent.com/107654891/201456188-3a5e9b6c-33a0-4d9e-9394-ff31a471b4d1.png)
+![amogussus](https://user-images.githubusercontent.com/107654891/201456275-c32aecfb-6564-42b7-ad28-a5cb241cf394.png)
