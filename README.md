@@ -1,3 +1,1 @@
-# Info
 
-- Doing thesis twin 🥀
